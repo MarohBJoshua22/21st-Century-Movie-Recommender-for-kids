@@ -19,8 +19,6 @@ import matplotlib.pyplot as plt
 path = "/content/drive/MyDrive/vld_mvi_dst.csv"
 df = pd.read_csv(path)
 
-# Dataset Link - https://drive.google.com/file/d/1lOoERvy7dLTEC3Krem27vLYp71I7Sb3s/view?usp=sharing
-
 df.head(10)
 
 # DATA PRE-PROCESSING
